@@ -1,33 +1,33 @@
 [[ReSHOP]]
 arch = "i686"
-git-tree-sha1 = "a5895de1701193defddb7fa686a0d63f9e123d7c"
+git-tree-sha1 = "047f3b70047a452a61390cb408cbe46893320033"
 os = "windows"
 
     [[ReSHOP.download]]
-    sha256 = "2dc6afcbd5a63a57d082b41376ef894846ddd36c2550a806434103d67ff79092"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "b86ab629c93a544e7bed7a3c2caf3076c73bf68590e62344cfa82d28c1aa4d4c"
+    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.i686-w64-mingw32.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "6902a0d36b129efb5e427f2cdaaa276c87b7a31b"
+git-tree-sha1 = "ac3a05034e7b60222fe8834d786b185400ff9df1"
 os = "macos"
 
     [[ReSHOP.download]]
-    sha256 = "3d4f13591b088394d60f71e4029a49e69ba25895b167f6ae51ce77e30e848385"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "2ed81959b359e1146e0ccdcfad95a8f966984d78828cf766cbe07c19883ad77c"
+    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.x86_64-apple-darwin14.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "4dffd745b190dbeaf6accefbd041f34003779789"
+git-tree-sha1 = "1bcdce05cd22553ca02a14f95c2bf27a65440d1f"
 libc = "glibc"
 os = "linux"
 
     [[ReSHOP.download]]
-    sha256 = "8ba592fb2919fbb20ca9e74712b49d0e646924122a2ab0f2797527a5e7662f38"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "9ed5b56e89acd477533c451a2d72fa6fbfb14fc41a103680c41d90594aecaf3a"
+    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.x86_64-linux-gnu.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "8d8f3a6707b2470773c8ba4bb7e4774ec782f1d8"
+git-tree-sha1 = "8d79e341a68edf6989a8cf68d6f9322294c2875b"
 os = "windows"
 
     [[ReSHOP.download]]
-    sha256 = "812a42f5d300a5d6a193921b7add5f33c8b20dc79a9a5b433cd4c921b11d1565"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a8528c92ef84041309296c9c8c4c08fdd8ff567ccaccd633ef61b79cee91dd93"
+    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.x86_64-w64-mingw32.tar.gz"

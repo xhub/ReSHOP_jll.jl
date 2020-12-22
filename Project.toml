@@ -1,7 +1,7 @@
 name = "ReSHOP_jll"
 uuid = "b1e335f6-4372-40fd-9431-5a5c4704c04b"
 authors = ["Olivier Huber <oli.huber@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 repo = "https://github.com/xhub/ReSHOP_jll.jl.git"
 desc = "Binaries for the ReSHOP library"
 
