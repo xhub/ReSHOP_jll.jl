@@ -1,33 +1,34 @@
 [[ReSHOP]]
 arch = "i686"
-git-tree-sha1 = "047f3b70047a452a61390cb408cbe46893320033"
+git-tree-sha1 = "cc3a2fd6be21e374a7b0c4180bbb38daeedc28f2"
 os = "windows"
 
     [[ReSHOP.download]]
-    sha256 = "b86ab629c93a544e7bed7a3c2caf3076c73bf68590e62344cfa82d28c1aa4d4c"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.i686-w64-mingw32.tar.gz"
+    sha256 = "e614e292ff55994bcce52edd91ea3fc37a40b11f6dc6d3b5a699c1299875c494"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.2.i686-w64-mingw32.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "ac3a05034e7b60222fe8834d786b185400ff9df1"
+git-tree-sha1 = "dd36036f5b28d5e8257b46f080bfc6d6390d784a"
 os = "macos"
+os_version = "14.0.0"
 
     [[ReSHOP.download]]
-    sha256 = "2ed81959b359e1146e0ccdcfad95a8f966984d78828cf766cbe07c19883ad77c"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.x86_64-apple-darwin14.tar.gz"
+    sha256 = "68da9f1f6b85d036289cf3195f00a40e5cc6513103856c3bcd244b28cedbd3de"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.2.x86_64-apple-darwin14.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "1bcdce05cd22553ca02a14f95c2bf27a65440d1f"
+git-tree-sha1 = "314c498099c9609acc1f62f206591d496fc67412"
 libc = "glibc"
 os = "linux"
 
     [[ReSHOP.download]]
-    sha256 = "9ed5b56e89acd477533c451a2d72fa6fbfb14fc41a103680c41d90594aecaf3a"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "488abbd13b39a6ecabd7c7b6754b6533ee807c28c030c3eadefb3b00e50de798"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.2.x86_64-linux-gnu.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "8d79e341a68edf6989a8cf68d6f9322294c2875b"
+git-tree-sha1 = "4ab8b0a104e806f4d30968b24c9fe48f5686da92"
 os = "windows"
 
     [[ReSHOP.download]]
-    sha256 = "a8528c92ef84041309296c9c8c4c08fdd8ff567ccaccd633ef61b79cee91dd93"
-    url = "http://nullptr.fr/julia/ReSHOP.v0.1.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5858c39267fa7ecb4582211e0e2ddcf8e05008d073fd496786185b1a26ccfc2b"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.2.x86_64-w64-mingw32.tar.gz"
