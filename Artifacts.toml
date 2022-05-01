@@ -1,20 +1,12 @@
 [[ReSHOP]]
-arch = "i686"
-git-tree-sha1 = "9ed9fd02bedfd4b8ab693a8b73c23503e721e4dd"
-os = "windows"
-
-    [[ReSHOP.download]]
-    sha256 = "fd48fe46594fb06871bde0fb8af9c8424f2fbe7946b02c529149ffd3b3664de2"
-    url = "http://reshop.eu/julia/ReSHOP.v0.1.3.i686-w64-mingw32.tar.gz"
-[[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "bc2c0f69ee9b0587f9abe7ba93c29de17a9c6f88"
+git-tree-sha1 = "4afbb2a7ec4eded57b120b47165bbe480eadca81"
 os = "macos"
 os_version = "14.0.0"
 
     [[ReSHOP.download]]
-    sha256 = "bad775bb7f042e94136e768804e0100cd0d007e48fe1cfb8d3f5f33a35ec8333"
-    url = "http://reshop.eu/julia/ReSHOP.v0.1.3.x86_64-apple-darwin14.tar.gz"
+    sha256 = "f52646a480dd08d9cb2c4a4790bf843759e6d6e16d948d8156b9d973f1b4ed48"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.4.x86_64-apple-darwin14.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
 git-tree-sha1 = "7ab4da03beaff9c5aff53c8c500a78625fb0fe9e"
@@ -22,13 +14,13 @@ libc = "glibc"
 os = "linux"
 
     [[ReSHOP.download]]
-    sha256 = "865eb1896181475519042efb89c96dad4d5476c43d51c95ea574d2ac8192833f"
-    url = "http://reshop.eu/julia/ReSHOP.v0.1.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "d3cfc00466f371cc812a0abb2fdbe5c2003392dbe2045cae0d1d76a68e11a8cc"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.4.x86_64-linux-gnu.tar.gz"
 [[ReSHOP]]
 arch = "x86_64"
-git-tree-sha1 = "0c189e425b0d18c307af939c31fe37440be845f5"
+git-tree-sha1 = "7742e4758025951bfb5852b80e5d55bb6f515702"
 os = "windows"
 
     [[ReSHOP.download]]
-    sha256 = "ef4478cda55ac037326388a08a0df73fbcb88b30ce28cfecd00a7587fcfad769"
-    url = "http://reshop.eu/julia/ReSHOP.v0.1.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "275676fc4f7ec8df3f1f2b90ae004e76945f9f5ef933017c48915735f8d49d8c"
+    url = "http://reshop.eu/julia/ReSHOP.v0.1.4.x86_64-w64-mingw32.tar.gz"
